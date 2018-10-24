@@ -1,4 +1,4 @@
-# An Autoencoder for Converting an RBG Image to GRAY scale Image
+## Autoencoder for Converting an RBG Image to GRAY scale Image
 
 This an implementation of Undercomplete Autoencoder which is used for converting an RGB image to an GRAY scale image. The autoencoder is implemented using the framework TensorFlow with Python. 
 
