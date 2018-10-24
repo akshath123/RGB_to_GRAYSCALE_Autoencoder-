@@ -11,6 +11,6 @@ This an implementation of Undercomplete Autoencoder which is used for converting
 
 *Pre-trained model is present in saved_model folder*
 
-**NOTE: Do check for path errors in the code, modify it according to your need. Eg. The saver.train("....") has a path that must be changed according to your need".**
+**NOTE: Do check for path errors in the code, modify it according to your need. Eg. The saver.train("....") has a path that must be changed before running the session.**
 
 
