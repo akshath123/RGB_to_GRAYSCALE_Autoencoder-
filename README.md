@@ -13,4 +13,5 @@ This an implementation of Undercomplete Autoencoder which is used for converting
 
 **NOTE: Do check for path errors in the code, modify it according to your need. Eg. The saver.train("....") has a path that must be changed before running the session.**
 
-
+#### Reference
+1. Thanks to people at www.flicker.com for sharing the dataset.
